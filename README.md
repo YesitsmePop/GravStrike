@@ -56,8 +56,8 @@ It is pure Java with no libraries. Swing for the interface, a software 3D camera
 **Requirements:** JDK 16 or newer (the code uses `record`). Nothing else.
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone <https://github.com/YesitsmePop/GravStrike>
+cd <path_to_your_repo>
 ```
 
 Open the folder in IntelliJ IDEA, make sure a JDK 16+ is selected, and run `Main`.
